@@ -4,19 +4,19 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 12
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 15
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 5
     },
     {
       "id": 4,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Edward",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_343a8a3b-703a-4a7f-b19f-7c791e7271e1?wid=488&hei=488&fmt=pjpeg",
+      "likes": 99,
+      "id": 9
+    },
+    {
+      "name": "James Schaffer",
+      "image": "https://www.ikea.com/us/en/images/products/fabler-bjoern-soft-toy__0710165_PE727396_S5.JPG?f=s",
+      "likes": 50,
+      "id": 10
+    },
+    {
+      "name": "Alex",
+      "image": "https://www.dhresource.com/0x0/f2/albu/g7/M01/0E/59/rBVaSlr6pRKAWiCIAAEskVe-me8419.jpg",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Gabby",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_05858ee6-596b-4c50-97d5-ec39d84cc555?wid=488&hei=488&fmt=pjpeg",
+      "likes": 150,
+      "id": 13
     }
   ]
 }
