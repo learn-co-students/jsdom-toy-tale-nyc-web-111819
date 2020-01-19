@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
 
  let addToyForm = document.getElementById("add-toy-form")
 
-  addToyForm.addEventListener("submit", (e)=> {
+  addToyForm.addEventListener("submit", (e) => {
     e.preventDefault()
 
     fetch("http://localhost:3000/toys", {
